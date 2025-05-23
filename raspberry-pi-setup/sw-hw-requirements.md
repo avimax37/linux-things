@@ -1,4 +1,8 @@
-# Required Components
+# Requirements
+
+## Contents
+- [Hardware](#hardware)
+- [Software](#software)
 
 ## Hardware
 ### 1. Raspberry Pi
@@ -14,3 +18,7 @@ Link: [Power Supply on robu.in](https://robu.in/product-category/microcontroller
 1. [San Disk Extreme 64GB](https://amzn.in/d/fb5ZZfr)
 2. [SanDisk High Endurance 64GB](https://amzn.in/d/9VCyJwT)
 3. [SAMSUNG EVO Plus 128GB](https://amzn.in/d/h0pEoBm)
+
+## Software
+### 1. Raspberry Pi Imager
+Link: [Pi Imager](https://www.raspberrypi.com/software/)
